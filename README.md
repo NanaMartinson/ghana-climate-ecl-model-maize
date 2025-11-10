@@ -1,4 +1,4 @@
-# **Ghana Climate Risk ECL Model: De-Risking Agricultural Portfolios**
+# **Ghana Climate Risk ECL Model for Maize Production (2003-2023)**
 
 Author: Nana Nshira Martinson  
 Contact: [nanamartinsonnnm@gmail.com](mailto:nanamartinsonnnm@gmail.com)  
