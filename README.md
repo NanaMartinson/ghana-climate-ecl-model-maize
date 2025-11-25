@@ -63,7 +63,7 @@ Scenario-based yield shortfalls (measured by standard deviation from the expecte
 
 PD Multiplier \= 1.00 \+ (Z-score x 0.15)
 
-A shortfall of 0.61 standard deviations (Severe Drought) results in a 1.09 times PD multiplier (a 9% increase in default risk). This aggressive sensitivity is justified by the high physical impact of weath on crop yield.
+A shortfall of 0.61 standard deviations (Severe Drought) results in a 1.09 times PD multiplier (a 9% increase in default risk). This aggressive sensitivity is justified by the high physical impact of weather on crop yield.
 
 ## **Limitations & Future Development**
 
